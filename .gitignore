@@ -21,3 +21,5 @@ master.zip
 main.zip
 plot/*.LOG
 plot/ocrd*
+data/nutrition-facts-model-ground-truth/*
+data/langdata/*
